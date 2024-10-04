@@ -1,5 +1,5 @@
 let newsContainer = document.getElementById('news-container');
-let url = "/index.json"; // Path to your local JSON file
+let url = "index.json"; // Path to your local JSON file
 
 function GetNews() {
     fetch(url)
