@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": "Winnie Hsu",
+        "title": "Chinese Stocks in Hong Kong Slide After Rallying More Than 30% - Bloomberg",
+        "description": "A historic rally in Chinese stocks took a breather on Thursday, as traders took profit following gains of more than 30% from a September low.",
+        "url": "https://www.bloomberg.com/news/articles/2024-10-03/chinese-stock-rally-cools-in-hong-kong-as-tech-shares-slump",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPux_tTA3dHY/v0/1200x800.jpg",
+        "publishedAt": "2024-10-03T05:39:00Z",
+        "content": "A historic rally in Chinese stocks took a breather on Thursday, as traders took profit following gains of more than 30% from a September low. \r\nThe Hang Seng China Enterprises Index fell as much as 4… [+260 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "OpenAI closes $6.6 billion funding haul with investment from Microsoft and Nvidia - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/technology/artificial-intelligence/openai-closes-66-billion-funding-haul-valuation-157-billion-with-investment-2024-10-02/",
+        "urlToImage": null,
+        "publishedAt": "2024-10-03T05:17:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Kelly Tyko",
+        "title": "Wendy's to release Krabby Patty burgers, Pineapple Frosty for SpongeBob SquarePant’s birthday - Axios",
+        "description": "The limited-time menu collab will launch Oct. 8 at participating Wendy's restaurants nationwide.",
+        "url": "https://www.axios.com/2024/10/02/wendys-krabby-patty-pineapple-frosty-spongebob-collab",
+        "urlToImage": "https://images.axios.com/-rIkXbzTlhf_fr4oxeMi4p-wZeI=/0x239:4608x2831/1366x768/2024/10/02/1727891448563.png",
+        "publishedAt": "2024-10-03T03:35:23Z",
+        "content": "Wendy's is celebrating the 25th anniversary of SpongeBob SquarePants with \"Krabby Patty\" cheeseburgers and a new \"Pineapple Under the Sea\" Frosty.\r\nThe big picture: The fast-food chain, known for its… [+345 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KPRC Click2Houston"
+        },
+        "author": "Ricky Munoz",
+        "title": "Port closures trigger panic buying in Houston, water and toilet paper vanish from shelves - KPRC Click2Houston",
+        "description": "As prolonged port closures across the U.S. continue to disrupt supply chains, grocery store aisles in Houston are being emptied by panicked shoppers scrambling to stock up on essential goods.",
+        "url": "https://www.click2houston.com/consumer/2024/10/03/port-closures-trigger-panic-buying-in-houston-water-and-toilet-paper-vanish-from-shelves/",
+        "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/MYHX7MQI4FAJHGVL73EX6DBLWU.png?_a=DATAg1fiZAA0",
+        "publishedAt": "2024-10-03T03:02:13Z",
+        "content": "HOUSTON As prolonged port closures across the U.S. continue to disrupt supply chains, grocery store aisles in Houston are being emptied by panicked shoppers scrambling to stock up on essential goods.… [+3615 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Jason Gewirtz",
+        "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+        "description": "The major averages ended Wednesday just above the flatline as Middle East tensions weighed on sentiment. Here's what CNBC is watching going into Thursday.",
+        "url": "https://www.cnbc.com/2024/10/02/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108036807-1726782312198-gettyimages-2173210072-wallst527788_rfxffp38.jpeg?v=1727908439&w=1920&h=1080",
+        "publishedAt": "2024-10-02T23:23:39Z",
+        "content": "Stocks @ Night is a daily newsletter delivered after hours, giving you a first look at tomorrow and last look at today. Sign up for free to receive it directly in your inbox.\r\nHere's what CNBC TV's p… [+80 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KTLA Los Angeles"
+        },
+        "author": "Iman Palm",
+        "title": "CNN launches digital paywall for the first time - KTLA Los Angeles",
+        "description": "CNN, one of the most visited news sites in the world, announced Tuesday that visitors will soon have to pay to view the website. CNN.com will implement a paywall, asking visitors to pay $3.99 a month or a discounted rate of $29.99 a year to access its news co…",
+        "url": "https://ktla.com/news/consumer-business/cnn-launches-digital-paywall-for-the-first-time/",
+        "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/07/668ee92b53eff8.51311782.jpeg?w=1280",
+        "publishedAt": "2024-10-02T23:21:23Z",
+        "content": "CNN, one of the most visited news sites in the world, announced Tuesday that visitors will soon have to pay to view the website.\r\nCNN.com will implement a paywall, asking visitors to pay $3.99 a mont… [+882 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Scharon Harding",
+        "title": "Amazon will “ramp up” Prime Video ads in 2025 - Ars Technica",
+        "description": "Subscribers tolerated the current ad load, so Amazon is adding more commercials.",
+        "url": "https://arstechnica.com/gadgets/2024/10/amazon-prime-video-is-getting-more-ads-next-year/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/boysLIST.jpg",
+        "publishedAt": "2024-10-02T22:28:14Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "Charles Passy",
+        "title": "Costco now sells platinum bars, but some finance pros say they aren’t a sure bet - MarketWatch",
+        "description": "When it comes to precious metals, gold is still often all that glitters, experts say",
+        "url": "https://www.marketwatch.com/story/costco-now-sells-platinum-bars-but-some-financial-pros-say-they-arent-a-sure-bet-34711445",
+        "urlToImage": "https://images.mktw.net/im-37712403/social",
+        "publishedAt": "2024-10-02T22:17:00Z",
+        "content": "Charles Passy covers a variety of topics, includingpersonal finance, food, entertainment and anything and everything trending and quirky. He also writes the Weekend Sip column, which covers wine, spi… [+143 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Andrea Margolis",
+        "title": "Chrysler recalls 154,000 Jeep electric vehicles over 'risk of fire' while parked, driven - Fox Business",
+        "description": "Chrysler is recalling over 150,000 Jeep Wrangler and Jeep Grand Cherokee hybrid electric vehicles over concerns about the vehicles catching on fire while parked or driven.",
+        "url": "https://www.foxbusiness.com/industrials/chrysler-recalls-154000-jeep-electric-vehicles-risk-fire-parked-driven",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/jeep-chrysler-ev-recall-1.png?ve=1&tl=1",
+        "publishedAt": "2024-10-02T21:58:00Z",
+        "content": "Over 150,000 Jeep electric vehicles (EVs) are being recalled over concerns about the cars possibly catching on fire while being parked or driven.\r\nThe recall, which was announced by the National High… [+2098 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Maha Dahan, Ahmad Ghaddar, Dmitry Zhdannikov",
+        "title": "OPEC+ could cushion Iran oil shock but not broader disruption - Reuters",
+        "description": "OPEC has enough spare oil capacity to compensate for a full loss of Iranian supply if Israel knocks out that country's facilities but the producer group would struggle if Iran retaliates by hitting installations of its Gulf neighbours.",
+        "url": "https://www.reuters.com/business/energy/opec-could-cushion-iran-oil-shock-not-broader-disruption-2024-10-02/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/XAT3FRYQO5LNXE6NVUEN4ZMMPA.jpg?auth=725da23a4a9859761daa4d4cb783141a6185654619cfdf1c94373b5da4e78e35&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-10-02T21:36:48Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Authority"
+        },
+        "author": null,
+        "title": "T-Mobile follows up Verizon with a network outage of its own (Updated) - Android Authority",
+        "description": "T-Mobile's cellular network is experiencing an outage this afternoon, affecting Mint and Google Fi customers, as well.",
+        "url": "https://www.androidauthority.com/t-mobile-outage-3487066/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/03/T-Mobile-logo-angled-MWC-2022.jpg",
+        "publishedAt": "2024-10-02T21:15:00Z",
+        "content": "\u003Cul\u003E\u003Cli\u003ET-Mobiles cellular network appears to be currently experiencing an outage.\u003C/li\u003E\u003Cli\u003EThe issue appears to also involve carriers like Mint and Google Fi, operating off T-Mobiles network.\u003C/li\u003E\u003C/u… [+1646 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Nvidia CEO Jensen Huang: We're looking at the beginning of the next wave of AI - CNBC Television",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "url": "https://www.youtube.com/",
+        "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+        "publishedAt": "2024-10-02T21:09:15Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Sriparna Roy, Bhanvi Satija",
+        "title": "Humana shares tumble as 2025 membership for its top-rated Medicare plans slump - Reuters",
+        "description": "Humana's shares fell as much as 22.4% on Wednesday, as the health insurer said enrollments in its top-rated Medicare insurance plans dropped sharply, casting a cloud over the company's 2026 revenue and bonus payments.",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/humana-says-members-its-highly-rated-medicare-advantage-plans-fell-2025-2024-10-02/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/4YSQTGQEEZODFC4TLQFNJMYY5U.jpg?auth=280d57794230a1f673be12a559987310a7df13358bda26ef25846f968bfb6a63&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-10-02T20:51:21Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WLOS"
+        },
+        "author": "The Associated Press",
+        "title": "Spruce Pine, which produces quartz needed for tech products, is devastated by Helene - WLOS",
+        "description": "Sibelco and The Quartz Corp both shut down operations in the Appalachian town of Spruce Pine on Thursday ahead of the storm that swept away whole communities.",
+        "url": "https://wlos.com/news/local/spruce-pine-produces-quartz-needed-tech-products-devastated-helene-north-carolina-hurricane-helene",
+        "urlToImage": "https://wlos.com/resources/media2/16x9/1290/986/0x611/90/9a0b4464-5bb9-4091-bb63-71e320cf0c2e-29AB347D0B93493281642B08EE6641E9.jpeg",
+        "publishedAt": "2024-10-02T20:46:26Z",
+        "content": "SPRUCE PINE, N.C. (AP) Two North Carolina facilities that manufacture the high-purity quartz used for making semiconductors, solar panels and fiber-optic cables have been shut down by Hurricane Helen… [+2198 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Gabrielle Fonrouge",
+        "title": "Levi Strauss trims guidance as it weighs sale of Dockers business - CNBC",
+        "description": "Denim-maker Levi Strauss is looking to sell its Dockers brand as the khaki maker drags down the company's overall performance.",
+        "url": "https://www.cnbc.com/2024/10/02/levi-levi-earnings-q3-2024.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107227135-1681833900406-gettyimages-1480360171-img_0209_lumbdean.jpeg?v=1727900994&w=1920&h=1080",
+        "publishedAt": "2024-10-02T20:12:58Z",
+        "content": "Denim-crazed consumers are turning to Levi Strauss &amp; Co for new jeans, but the company's overall business is being dragged down by its Dockers brand, which the company is now considering selling … [+5283 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Josh Schafer",
+        "title": "Stock market today: Stocks edge higher amid Mideast caution, Tesla slips after deliveries fall short - Yahoo Finance",
+        "description": "Escalating Israel-Iran tensions fanned worries about a wider Middle East conflict, prompting caution.",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-stocks-edge-higher-amid-mideast-caution-tesla-slips-after-deliveries-fall-short-111650883.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6RhMa75V6boQvESz5lX_4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/48b7d3e0-8084-11ef-9786-4d3bfe5efe3e",
+        "publishedAt": "2024-10-02T20:04:00Z",
+        "content": "US stocks drifted higher on Wednesday as escalating Israel-Iran tensions fanned worries about a wider Middle East conflict, initially prompting caution in the market.\r\nThe S&amp;P 500 (^GSPC) Dow Jon… [+11120 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Richard Lawler",
+        "title": "A Bank of America outage showed customers blanked-out account balances - The Verge",
+        "description": "Bank of America told customers “some accounts unavailable” on Wednesday, as many people reported seeing zeroes instead of their account balances.",
+        "url": "https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/SjUL20M77aTSdL2PFpqNg0-fy6k=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25542552/STK417_MONEY_CVIRGINIA_A.jpg",
+        "publishedAt": "2024-10-02T19:48:11Z",
+        "content": "A Bank of America outage showed customers blanked-out account balances\r\nA Bank of America outage showed customers blanked-out account balances\r\n / Accounts temporarily unavailable is never what you w… [+1824 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Teslarati"
+        },
+        "author": "Joey Klender",
+        "title": "Tesla Robotaxi commercial introduction ‘could be late 2025 or 2026’: Morgan Stanley - TESLARATI",
+        "description": "Tesla Robotaxi unveiling will take place next week on October 10 in Los Angeles at the company's \"We, Robot\" event.",
+        "url": "https://www.teslarati.com/tesla-robotaxi-commercial-introduction-could-be-late-2025-or-2026-morgan-stanley/",
+        "urlToImage": "https://www.teslarati.com/wp-content/uploads/2023/07/tesla-cybertruck-production-line-scaled.jpg",
+        "publishedAt": "2024-10-02T19:45:31Z",
+        "content": "Tesla Robotaxi unveiling will take place next week on October 10 in Los Angeles at the company’s “We, Robot” event. Morgan Stanley analyst Adam Jonas has a clear-cut timeline of when the firm believe… [+3086 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Courtenay Brown",
+        "title": "The no-hire, no-fire labor market - Axios",
+        "description": "Companies are hesitant to shrink or grow their payrolls for fear that they might be caught flatfooted if the economy revs up or unexpectedly slows down.",
+        "url": "https://www.axios.com/2024/10/02/us-labor-market-hiring-rates",
+        "urlToImage": "https://images.axios.com/BgcQ0v7lm73CMS_c3hOIA7yBaAA=/0x0:1920x1080/1366x768/2024/10/02/1727885111069.jpg",
+        "publishedAt": "2024-10-02T18:56:15Z",
+        "content": "It's a fine time to have a job wages are rising and employers, for the most part, aren't laying people off. But it's a terrible time to look for one, with hiring rates the lowest in over a decade.\r\nW… [+2405 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sec.gov"
+        },
+        "author": null,
+        "title": "SEC Announces Departure of Enforcement Director Gurbir S. Grewal - SEC.gov",
+        "description": null,
+        "url": "https://www.sec.gov/newsroom/press-releases/2024-162",
+        "urlToImage": null,
+        "publishedAt": "2024-10-02T18:34:20Z",
+        "content": "Washington D.C., Oct. 2, 2024 The Securities and Exchange Commission today announced that Gurbir S. Grewal, Director of the Division of Enforcement, will depart the agency, effective Oct. 11, 2024. U… [+8680 chars]"
+      }
+    ]
+  }
